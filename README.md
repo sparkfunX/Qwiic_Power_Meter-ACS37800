@@ -17,8 +17,10 @@ The ACS37800 power monitoring IC offers key power measurement parameters that ca
 configurable I/O pins for voltage/current zero crossing, undervoltage and overvoltage reporting, and fast overcurrent fault detection are available.
 User configuration of the IC is available through on-chip EEPROM.
 
-**Important note: although the ACS37800 power monitoring IC is capable of monitoring AC power at high line voltages, the SparkX Power Meter is designed for
-Safety Extra Low Voltage (SELV) applications of up to 60VDC only. Its use in AC power system is _not_ recommended.**
+Safety Information
+-------------------
+**Although the ACS37800 power monitoring IC is capable of monitoring AC power at high line voltages, the SparkX Power Meter is designed for
+Safety Extra Low Voltage (SELV) applications of up to 60VDC only. Its use in AC power systems is _not_ recommended.**
 
 Repository Contents
 -------------------
