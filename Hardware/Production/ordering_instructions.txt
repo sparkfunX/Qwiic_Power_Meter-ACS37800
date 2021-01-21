@@ -1,0 +1,11 @@
+panel size, 138x130mm
+PCB thickness, 1.6mm
+number of layers, 2
+soldermask color, Black
+silkscreen color, White
+oz copper, 2oz
+finish, ENIG
+stencils, top
+pcs per panel, 12
+min trace width, 0.4064mm / 0.0160in
+min drill size, 0.3000mm / 0.0118in
