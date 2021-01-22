@@ -5,7 +5,7 @@ SparkX Power Meter - ACS37800 (Qwiic)
 ![SparkX Power Meter - ACS37800](./img/Bottom.png)
 ![SparkX Power Meter - ACS37800](./img/Dimensions.png)
 
-[*SparkX Power Meter - ACS37800 (Qwiic) (SPX-nnnnn)*](https://www.sparkfun.com/products/nnnnn)
+[*SparkX Power Meter - ACS37800 (Qwiic) (SPX-17873)*](https://www.sparkfun.com/products/17873)
 
 The Allegro MicroSystems ACS37800 power monitoring IC greatly simplifies the addition of power monitoring to many powered systems.
 
@@ -34,7 +34,7 @@ Documentation
 
 Product Versions
 ----------------
-* [SPX-nnnnn](https://www.sparkfun.com/products/nnnnn) - Original SparkX Release.
+* [SPX-17873](https://www.sparkfun.com/products/17873) - Original SparkX Release.
 
 License Information
 -------------------

@@ -9123,7 +9123,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <technology name="">
 <attribute name="DIGIKEY_PART" value="620-ACS37800KMACTR-030B3-I2CCT-ND" constant="no"/>
 <attribute name="MANU_PART" value="ACS37800KMACTR-030B3-I2C" constant="no"/>
-<attribute name="PROD_ID" value="" constant="no"/>
+<attribute name="PROD_ID" value="IC-15728" constant="no"/>
 <attribute name="VALUE" value="" constant="no"/>
 </technology>
 </technologies>
