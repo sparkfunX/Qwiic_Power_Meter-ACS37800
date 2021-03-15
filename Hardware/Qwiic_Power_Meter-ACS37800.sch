@@ -9217,8 +9217,8 @@ pullup resistors from the I2C bus</text>
 <wire x1="121.92" y1="0" x2="121.92" y2="68.58" width="0.2032" layer="97" style="longdash"/>
 <wire x1="121.92" y1="68.58" x2="121.92" y2="127" width="0.2032" layer="97" style="longdash"/>
 <text x="149.86" y="116.84" size="2.54" layer="94" font="vector" align="center">Voltage Sensing</text>
-<text x="35.56" y="86.36" size="1.778" layer="97" font="vector" align="top-center">With DIO0 and DIO1 pulled low
-the default I2C address is 0x61
+<text x="36.576" y="87.122" size="1.778" layer="97" font="vector" align="top-center">With DIO0 and DIO1 pulled low
+the default I2C address is 0x60
 
 The address can be set in EEPROM
 (via i2c_slv_addr and i2c_dis_slv_addr)</text>
@@ -9307,15 +9307,15 @@ VINP - VINN will be 245mV</text>
 <instance part="I2C" gate="G$1" x="185.42" y="157.48" smashed="yes" rot="R270">
 <attribute name="NAME" x="182.88" y="152.781" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="GND2" gate="1" x="35.56" y="96.52" smashed="yes">
-<attribute name="VALUE" x="33.02" y="93.98" size="1.778" layer="96" font="vector"/>
+<instance part="GND2" gate="1" x="38.1" y="96.52" smashed="yes">
+<attribute name="VALUE" x="35.56" y="93.98" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C1" gate="G$1" x="35.56" y="104.14" smashed="yes">
-<attribute name="NAME" x="37.084" y="107.061" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="37.084" y="101.981" size="1.778" layer="96" font="vector"/>
+<instance part="C1" gate="G$1" x="38.1" y="104.14" smashed="yes">
+<attribute name="NAME" x="39.624" y="107.061" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="39.624" y="101.981" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="SUPPLY3" gate="G$1" x="35.56" y="111.76" smashed="yes">
-<attribute name="VALUE" x="35.56" y="114.554" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY3" gate="G$1" x="38.1" y="111.76" smashed="yes">
+<attribute name="VALUE" x="38.1" y="114.554" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="U$18" gate="G$1" x="213.36" y="53.34" smashed="yes"/>
 <instance part="LOGO1" gate="G$1" x="226.06" y="35.56" smashed="yes"/>
@@ -9416,7 +9416,7 @@ VINP - VINN will be 245mV</text>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
 <pinref part="SUPPLY3" gate="G$1" pin="3.3V"/>
-<wire x1="35.56" y1="109.22" x2="35.56" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="109.22" x2="38.1" y2="111.76" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="VCC"/>
@@ -9450,7 +9450,7 @@ VINP - VINN will be 245mV</text>
 <pinref part="GND8" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="35.56" y1="101.6" x2="35.56" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="101.6" x2="38.1" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 <pinref part="C1" gate="G$1" pin="2"/>
 </segment>
