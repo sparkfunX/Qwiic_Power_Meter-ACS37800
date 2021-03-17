@@ -7,7 +7,14 @@ SparkX Power Meter - ACS37800 (Qwiic)
 
 [*SparkX Power Meter - ACS37800 (Qwiic) (SPX-17873)*](https://www.sparkfun.com/products/17873)
 
-The Allegro MicroSystems ACS37800 power monitoring IC greatly simplifies the addition of power monitoring to many powered systems.
+Need a power sensor that can sense voltage up to 60VDC and current up to 30A? This is the product for you!
+
+The Allegro MicroSystems ACS37800 power monitoring IC greatly simplifies the addition of power monitoring to many powered systems and is ideal for
+heavy current applications like:
+- Monitoring the power drawn by a 3D-printer
+- Monitoring the power drawn from a UAV battery
+- Battery charging / conditioning
+- Solar / photovoltaic panel power monitoring
 
 Allegro’s Hall-effect-based, galvanically isolated current sensing technology achieves reinforced isolation ratings in a small PCB footprint.
 These features enable isolated current sensing without expensive Rogowski coils, oversized current transformers, isolated operational amplifiers,
@@ -16,6 +23,12 @@ or the power loss of shunt resistors.
 The ACS37800 power monitoring IC offers key power measurement parameters that can easily be accessed through its digital interface. Dedicated and
 configurable I/O pins for voltage/current zero crossing, undervoltage and overvoltage reporting, and fast overcurrent fault detection are available.
 User configuration of the IC is available through on-chip EEPROM.
+
+Important Note
+-------------------
+This product is not suitable for low current applications due to the +/-0.1A RMS Noise on the current channel.
+
+Sensing less than an Amp? This is _not_ the product for you...
 
 Safety Information
 -------------------
