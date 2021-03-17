@@ -29,7 +29,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[ACS37800 Arduino Library](https://github.com/sparkfun/SparkFun_ACS37800_Arduino_Library)** - Arduino library for the SparkFun Power Meter - ACS37800.
+* **[ACS37800 Arduino Library](https://github.com/sparkfun/SparkFun_ACS37800_Power_Monitor_Arduino_Library)** - Arduino library for the SparkFun Power Meter - ACS37800.
 * **[Hookup Guide]()** - Basic hookup guide for the SparkX Power Meter - ACS37800.
 
 Product Versions
