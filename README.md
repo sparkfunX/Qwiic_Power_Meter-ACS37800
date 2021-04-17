@@ -1,11 +1,11 @@
 SparkX Power Meter - ACS37800 (Qwiic)
 ===================================================
 
-![SparkX Power Meter - ACS37800](./img/Top.png)
-![SparkX Power Meter - ACS37800](./img/Bottom.png)
-![SparkX Power Meter - ACS37800](./img/Dimensions.png)
+[![SparkX ACS37800 Power Meter (Qwiic) (SPX-17873)](https://cdn.sparkfun.com//assets/parts/1/7/0/6/9/17873-SparkX_Power_Meter_-_ACS37800__Qwiic_-01.jpg)](https://www.sparkfun.com/products/17873)
 
 [*SparkX Power Meter - ACS37800 (Qwiic) (SPX-17873)*](https://www.sparkfun.com/products/17873)
+
+![SparkX Power Meter - ACS37800](./img/Dimensions.png)
 
 Need a power sensor that can sense voltage up to 60VDC and current up to 30A? This is the product for you!
 
