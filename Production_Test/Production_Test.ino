@@ -59,7 +59,7 @@ void loop()
   mySensor.readRegister(&reg1D.data.all, ACS37800_REGISTER_SHADOW_1D);
 
   // Check the register contents
-  if (reg1B.data.bits.crs_sns != 0x5)
+  if ((reg1B.data.bits.crs_sns < 0x3) || (reg1B.data.bits.crs_sns > 0x6))
   {
     digitalWrite(LED_BUILTIN, LOW);
     Wire.end();
